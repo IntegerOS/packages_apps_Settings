@@ -34,5 +34,9 @@
     <string name="custom_encryption_and_credential_settings_summary_on">O dispositivo está criptografado</string>
     <string name="custom_encryption_and_credential_settings_summary_off">O dispositivo não está criptografado</string>
 
+    <!-- Changelog -->
+    <string name="changelog_aosp_title">Lista de mudanças</string>
+    <string name="changelog_aosp_error">Falha ao carregar a lista de mudanças</string>
+
 </resources>
 
